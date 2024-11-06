@@ -7,7 +7,7 @@ export default function BestDeal() {
     <div className='container text-center mt-5'>
         <h1 className='fw-bold'>Best Deals</h1>
         <h5>Just For You</h5>
-        <div className='d-flex justify-content-center mt-4'>
+        <div className='d-flex justify-content-around mt-4'>
             <div className='bestdeal'>
                 <div className='center'>
                     <span className='py-1 px-2 promotion'>25% Off</span>

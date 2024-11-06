@@ -5,8 +5,8 @@
   position: relative;
 }
 #showcase #header{
-  margin-top: 300px;
-  margin-bottom: 350px;
+  margin-top: 20%;
+  margin-bottom: 20%;
   z-index: 2;
 }
 #showcase #overlay{
@@ -35,17 +35,19 @@
 }
 
 .podimg{
-  width: 180px;
+  width: 100%;
   height: 220px;
   border-radius: 10px;
 }
 
 .new{
   position: relative;
+  width: 20%;
+  margin-inline: 5px;
 }
 
 .newimg{
-  width: 300px;
+  width: 100%;
   height: 220px;
   border-radius: 10px;
   z-index: 1;
@@ -58,6 +60,7 @@
   position: absolute;
   bottom: 8px;
   left: 16px;
+  z-index: 2;
 }
 
 .trynew{

@@ -7,20 +7,20 @@ export default function NewRelease() {
     <div className='container text-center mt-5'>
         <h1 className='fw-bold'><span className='text-danger'>New</span> <span>Released</span></h1>
         <h5>Try Our Latest Flavors Here</h5>
-        <div className='d-flex justify-content-center mt-4'>
-            <div className='col-3 new'>
+        <div className='d-flex justify-content-around mt-4 w-100'>
+            <div className='new'>
                 <img src="images/strawberry.jpg" alt="" className='newimg'/>
                 <span className='newreleaseinfo'><b>Strawberry Refreshing Flavor <br></br> Nic 3 Percent</b> <small>30,000 MMK</small></span>
             </div>
-            <div className='col-3 new'>
+            <div className='new'>
                 <img src="images/blueberry.jpg" alt="" className='newimg'/>
                 <span className='newreleaseinfo'><b>Blueberry Refreshing Flavor <br></br> Nic 3 Percent</b> <small>30,000 MMK</small></span>
             </div>
-            <div className='col-3 new'>
+            <div className='new'>
                 <img src="images/kiwi.jpg" alt="" className='newimg'/>
                 <span className='newreleaseinfo'><b>Kiwi Refreshing Flavor <br></br> Nic 3 Percent</b> <small>30,000 MMK</small></span>
             </div>
-            <div className='col-3 new'>
+            <div className='new'>
                 <img src="images/strawberry.jpg" alt="" className='newimg'/>
                 <span className='newreleaseinfo'><b>Strawberry Refreshing Flavor <br></br> Nic 3 Percent</b> <small>30,000 MMK</small></span>
             </div>

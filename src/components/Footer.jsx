@@ -49,9 +49,9 @@ export default function Footer() {
         </div>
         <div className='col-3'>
             <h5>Payment</h5>
-            <div className='row'>
-                <div className='col-2'><img src="images/kbz_pay.png" alt="" width={50}/></div>
-                <div className='col-2'><img src="images/wavepay.png" alt="" width={120}/></div>
+            <div className='row w-100'>
+                <div className='col-4'><img src="images/kbz_pay.png" alt="" width={50}/></div>
+                <div className='col-6'><img src="images/wavepay.png" alt="" width={120}/></div>
             </div>
         </div>
         <div className='col-3'>
